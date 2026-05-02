@@ -42,7 +42,7 @@ export default function Footer() {
             color: 'white',
             maxWidth: 320
           }}>
-            Flexfume was created to keep your smells alive wherever life takes you, from the desk or date to every adventure.
+            Seez was created to keep your smells alive wherever life takes you, from the desk or date to every adventure.
           </p>
         </div>
 
@@ -97,7 +97,7 @@ export default function Footer() {
         gap: 30
       }}>
         <p style={{ fontSize: 14, color: 'white' }}>
-          © 2026 Flexfume Perfumes. All rights reserved
+          © 2026 Seez Perfumes. All rights reserved. Web development company Creative Teck Park.
         </p>
 
         {/* Social Icons */}
